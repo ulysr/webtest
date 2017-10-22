@@ -17,6 +17,6 @@ theme = "aerial"
   link = "https://github.com/ulysr"
 
 [[params.social]]
-	title = "Linkedin"
-	icon = "linkedin"
-	url = "https://linkedin.com/in/rytisulys/"
+  medium = "Linkedin"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/rytisulys/"
