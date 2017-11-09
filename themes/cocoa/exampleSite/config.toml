@@ -1,4 +1,4 @@
-baseurl             = "https://rytisulys.com"
+baseurl             = "https://you.github.io/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -9,7 +9,7 @@ theme               = "cocoa"
 author              = "Arthur Dent"
 title               = "Arthur Dent"
 pygmentsuseclasses  = true
-#disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 googleAnalytics     = "UA-123-45"
 
