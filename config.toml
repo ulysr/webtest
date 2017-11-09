@@ -36,7 +36,7 @@ blog  = "blog/:slug/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
-i18n_flags             = false                         # whether to display small country flags for available translations
+i18n_flags             = true                         # whether to display small country flags for available translations
 author                 = "Rytis Ulys"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
