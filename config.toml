@@ -51,7 +51,7 @@ instagram              = "//instagram.com/ulys.r"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/rytisulys"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Data Analyst, Google Certified Data Engineer"# appears in the site header when set to a non-empty string
+selfintro              = "Data Analyst & Google Certified Data Engineer"# appears in the site header when set to a non-empty string
 #twitter                = "//twitter.com/you"
 #mastodon               = "//example.com/@you"
 
